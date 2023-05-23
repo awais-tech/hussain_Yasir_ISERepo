@@ -1,0 +1,39 @@
+# Temperature and Season Information
+ 
+ This repository contains two Python scripts for retrieving temperature and season information based on user input. Below is an overview of each script:
+ 
+ ## 1. Temperature Comparison Script
+ 
+ ### File: temperature_comparison.py
+ 
+ This script allows users to compare a temperature reading with the average temperature of a specific city at a given time. It provides information on whether the temperature is above or below the average temperature.
+ 
+ To run the script, follow these steps:
+ 
+ 1. Ensure you have Python installed on your system.
+ 2. Open a terminal or command prompt.
+ 3. Navigate to the directory containing the script.
+ 4. Run the script using the command: `python temperature_comparison.py`
+ 
+ Upon running the script, you will be prompted to enter the city, temperature reading, and time (Morning/Evening). The script will then compare the temperature with the average temperature of the specified city and provide the comparison result.
+ 
+ ## 2. Season Finder Script
+ 
+ ### File: season_finder.py
+ 
+ This script helps users find the season in a specific country during a given month. It provides information about the season based on pre-defined season data for different countries.
+ 
+ To run the script, follow these steps:
+ 
+ 1. Ensure you have Python installed on your system.
+ 2. Open a terminal or command prompt.
+ 3. Navigate to the directory containing the script.
+ 4. Run the script using the command: `python season_finder.py`
+ 
+ Upon running the script, you will be prompted to enter the country and month. The script will then determine the corresponding season based on the provided inputs and display the result. Additionally, it will display an image associated with the determined season if available.
+ 
+ ---
+ 
+ Feel free to explore and modify the code files according to your needs. If you have any questions or need further assistance, please feel free to reach out.
+ 
+ Enjoy exploring temperature and season information!
