@@ -148,3 +148,6 @@ def determine_season(country, month):
      else:
          print("Unknown season")
  
+ 
+ if _name_ == '_main_':
+     main()
